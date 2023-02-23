@@ -2,5 +2,5 @@
 
 # SD Computing Studies Assignment
 
-fname = str("Mr")
-lname = str("Yang")
+fname = 'Mr'
+lname = 'Yang'
